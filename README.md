@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 3rd-year Computer Engineering student at PDEA College<br>🐍 Strong knowledge of Python programming and a solid foundation in Machine Learning<br>🎨 Enthusiastic about swimming and sketching<br>🔍 Continuously learning and exploring the field of Artificial Intelligence and Machine Learning<br>🏆 Topped first year with an impressive 9.57 SGPA<br>📚 Open to internships and opportunities to apply my skills in practical, real-world scenarios
+👨‍💻 4th-year Computer Engineering student at PDEA College<br>🐍 Strong knowledge of Python programming and a solid foundation in Machine Learning<br>🎨 Enthusiastic about swimming and sketching<br>🔍 Continuously learning and exploring the field of Artificial Intelligence and Machine Learning<br>🏆 Topped first year with an impressive 9.57 SGPA<br>📚 Open to internships and opportunities to apply my skills in practical, real-world scenarios
 
 
 ## 🌐 Socials:
